@@ -1,6 +1,12 @@
-# The Rust Programming Language
+# The RusS Programming Language
 
-[![Rust Community](https://img.shields.io/badge/Rust_Community%20-Join_us-brightgreen?style=plastic&logo=rust)](https://www.rust-lang.org/community)
+<a href="https://github.com/russ-lang/media-kit"><img src="https://raw.githubusercontent.com/russ-lang/media-kit/main/russlogo.png" width="200" /></a>
+
+Man just too lazy to search 'n replace all `rust`s ;)
+
+Inspired by [CrabLang](https://github.com/crablang/crab)
+
+[![Kremlin](https://img.shields.io/badge/Join%20Us-RU-red)](http://kremlin.ru) [![Rust Community](https://img.shields.io/badge/Rust_Community%20-Join_us-brightgreen?style=plastic&logo=rust)](https://www.rust-lang.org/community)
 
 This is the main source code repository for [Rust]. It contains the compiler,
 standard library, and documentation.
